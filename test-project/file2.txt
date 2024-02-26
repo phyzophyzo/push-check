@@ -11,3 +11,4 @@ state the problem
 =======
 we want to create a merge conflict
 >>>>>>> fixit
+add a new line of code to fix the bug 
